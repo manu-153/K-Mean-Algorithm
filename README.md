@@ -1,4 +1,6 @@
-
+# K-Means Clustering and Image Compression
+## Overview
+This project implements the K-Means clustering algorithm and demonstrates its application for image compression. K-Means is an iterative clustering algorithm that groups data points into K clusters based on similarity.
 
 ## Features
 - Implements K-Means clustering from scratch in Python.
