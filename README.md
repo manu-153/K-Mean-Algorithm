@@ -7,7 +7,7 @@ This project implements the K-Means clustering algorithm and demonstrates its ap
 - Implements K-Means clustering from scratch in Python.
 - Applies K-Means to a sample dataset to demonstrate clustering.
 - Uses K-Means for image compression by reducing the number of colors in an image.
-- Visualizes clustering progress and compressed images.
+- Visualizes clustering progress and compressed img.
 
 ## Prerequisites
 Before running the code, ensure you have the following installed:
